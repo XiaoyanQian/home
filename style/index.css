@@ -1,0 +1,17 @@
+﻿.point {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.aline-padding{
+    padding-bottom:18px;
+}
+
+.none-list-style{
+    list-style-type:none;
+}
+
+.pre-line{
+    display:block;
+    white-space:pre;    
+}
