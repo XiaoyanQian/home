@@ -24,23 +24,5 @@
         if (otherT == 5) {
             otherT = 0;
         }
-        if (otherT == 0) {
-            otherImageId.height = 427;
-            otherImageId.width = 655;
-        } else if (otherT == 1) {
-            otherImageId.height = 380;
-            otherImageId.width = 655;
-        } else if (otherT == 2) {
-            otherImageId.height = 427;
-            otherImageId.width = 600;
-        } else if (otherT == 3) {
-            otherImageId.height = 350;
-            otherImageId.width = 650;
-        } else if (otherT == 4) {
-            otherImageId.height = 250;
-            otherImageId.width = 450;
-
-        }
-
     }, 2000);
 }
