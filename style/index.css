@@ -1,4 +1,8 @@
-﻿.point {
+html,body{
+    font-family:"Times New Roman"
+}
+
+.point {
     font-weight: bold;
     font-style: italic;
 }
